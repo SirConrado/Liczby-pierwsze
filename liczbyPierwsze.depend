@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1487928452 source:c:\users\konrad\documents\programy\liczbypierwsze\main.cpp
+	<iostream>
+	<cstdlib>
+
