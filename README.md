@@ -1,2 +1,2 @@
-# Liczby-pierwsze
-Program do obliczania liczb pierwszych
+# Liczby pierwsze
+Program do sprawdzania czy liczba jest liczbą pierwszych
